@@ -6,7 +6,7 @@ Course Coordinator: Mr. Jithin Isaac
 ### Laboratory Experiment No. 3
  
 ### Objective  
-To learn and explore the Metabase Business Intelligence Tool and Google Big Query
+To learn and explore the Metabase Business Intelligence Tool, Google Big Query & Google Data Studio
 
 ### Tools used  
 - Software: 
@@ -20,6 +20,7 @@ To learn and explore the Metabase Business Intelligence Tool and Google Big Quer
 - Importing a database into Metabase and performing data analysis on the same.
 - Access the Google Big Query Dashboard
 - Running queries on large sample databases included in Big Query
+- Plotting data on Google Data Studio
 
 ### Instructions
 
@@ -35,6 +36,7 @@ To learn and explore the Metabase Business Intelligence Tool and Google Big Quer
 - Explorations & Data analysis of Sample Dataset on Metabase
 - Explorations & Data analysis of specific Dataset as imported by the student
 - Specific queries on Google Big Query's sample dataset
+- Plotting basic graphs & charts on Google Data Studio
 
 ### Procedure 
 - **ADD THE PROCEDURE THAT YOU FOLLOWED FOR COMPLETING THE EXPERIMENT HERE**

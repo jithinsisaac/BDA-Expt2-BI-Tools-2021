@@ -33,16 +33,22 @@ To learn and explore the Metabase Business Intelligence Tool, Google Big Query &
 ### Final list of Deliverables for Expt 3 
 (Please attach necessary screenshots & video clips for the same)
 
-- Explorations & Data analysis of Sample Dataset on Metabase
-- Explorations & Data analysis of specific Dataset as imported by the student
-- Specific queries on Google Big Query's sample dataset
-- Plotting basic graphs & charts on Google Data Studio
+**1. Metabase**  
+Screenshots of   
+a. Dashboard of Sample Dataset  
+b. Dashboard of your own Dataset
+
+**2. Google Big Query**   
+a. Screenshots of atleast 3 queries done on the any bigquery-public-data dataset
+
+**3. Google Data Studio (Optional)**  
+a. Screenshots of Dashboard of data from Big Query OR Sample data present in GDS
 
 ### Procedure 
 - **ADD THE PROCEDURE THAT YOU FOLLOWED FOR COMPLETING THE EXPERIMENT HERE**
 
 ### Output
-- **ADD SCREENSHOTS OF YOUR OUTPUT HERE**  
+- **ADD SCREENSHOTS OF YOUR OUTPUT HERE ALONG WITH VIDEO**  
 
 ### Submission Details
 - **Submitted on** 11-10-2020

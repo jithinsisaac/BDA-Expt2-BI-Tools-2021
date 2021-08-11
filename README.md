@@ -30,7 +30,7 @@ To learn and explore the Metabase Business Intelligence Tool & Google Big Query
 - For importing new database into Metabase, follow these instructions:
   - In MySQL/MariaDB shell ->
     - CREATE USER 'jithin'@'%' IDENTIFIED BY 'isaac';
-    - GRANT ALL PRIVILEGES ON '*'.'*' TO 'jithin'@'%';
+    - GRANT ALL PRIVILEGES ON . TO 'jithin'@'%';
     - FLUSH PRIVILEGES;
     - In sudo nano /etc/mysql/mariadb.conf.d/50-server.cnf
       - Change bind address to: 0.0.0.0

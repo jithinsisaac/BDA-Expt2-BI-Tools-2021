@@ -28,11 +28,12 @@ To learn and explore the Metabase Business Intelligence Tool & Google Big Query
 - Install Metabase on the EC2 instance
   - https://jithinsisaac.github.io/posts/aws_metabase/
 - For importing new database into Metabase, follow these instructions:
-  - CREATE USER 'jithin'@'%' IDENTIFIED BY 'isaac';
-  - GRANT ALL PRIVILEGES ON *.* TO 'jithin'@'%';
-  - FLUSH PRIVILEGES;
-  - In sudo nano /etc/mysql/mariadb.conf.d/50-server.cnf
-    - Change bind address to: 0.0.0.0
+  - In MySQL/MariaDB shell ->
+    - CREATE USER 'jithin'@'%' IDENTIFIED BY 'isaac';
+    - GRANT ALL PRIVILEGES ON *.* TO 'jithin'@'%';
+    - FLUSH PRIVILEGES;
+    - In sudo nano /etc/mysql/mariadb.conf.d/50-server.cnf
+      - Change bind address to: 0.0.0.0
 - Import .sql database into your EC2 instance
 - Link the database with Metabase 
 

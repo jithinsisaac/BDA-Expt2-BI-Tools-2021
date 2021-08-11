@@ -1,0 +1,33 @@
+To install MariaDB:
+
+sudo apt install mariadb-server
+
+
+
+Inside MariaDB shell:
+
+CREATE DATABASE database_name;
+
+
+
+To import SQL database:
+
+sudo mysql -u root -p database_name < /home/ubuntu/databasefile.sql
+
+
+
+Inside MariaDB shell:
+
+CREATE USER 'jithin'@'%' IDENTIFIED BY 'isaac';
+GRANT ALL PRIVILEGES ON *.* TO 'jithin'@'%';
+FLUSH PRIVILEGES;
+
+
+
+In Ubuntu Shell:
+- In sudo nano /etc/mysql/mariadb.conf.d/50-server.cnf
+	Change bind address to: 0.0.0.0
+
+- sudo systemctl restart mariadb.service
+
+

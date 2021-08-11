@@ -12,7 +12,7 @@ To learn and explore the Metabase Business Intelligence Tool & Google Big Query
 - Software: 
   - Metabase https://www.metabase.com/
   - Google Big Query https://cloud.google.com/bigquery
-- Cloud: AWS EC2
+- Cloud: AWS EC2 (Open ports 22, 3306 & 3000)
 
 ### Experiment Outcome
 - Installation of Metabase in an AWS EC2 instance 

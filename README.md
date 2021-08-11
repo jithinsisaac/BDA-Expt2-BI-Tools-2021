@@ -34,6 +34,7 @@ To learn and explore the Metabase Business Intelligence Tool & Google Big Query
     - FLUSH PRIVILEGES;
     - In sudo nano /etc/mysql/mariadb.conf.d/50-server.cnf
       - Change bind address to: 0.0.0.0
+    - sudo systemctl restart mariadb.service
 - Import .sql database into your EC2 instance
 - Link the database with Metabase 
 

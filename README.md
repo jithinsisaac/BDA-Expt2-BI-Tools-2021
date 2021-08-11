@@ -24,6 +24,7 @@ To learn and explore the Metabase Business Intelligence Tool & Google Big Query
 
 ### Instructions
 
+**Metabase**
 - Spin up an AWS EC2 instance
 - Install Metabase on the EC2 instance
   - https://jithinsisaac.github.io/posts/aws_metabase/
@@ -37,6 +38,11 @@ To learn and explore the Metabase Business Intelligence Tool & Google Big Query
     - sudo systemctl restart mariadb.service
 - Import .sql database into your EC2 instance
 - Link the database with Metabase 
+
+**Google BigQuery**
+- We will use Google Bigquery sandbox, which does not need an credit card details
+- https://cloud.google.com/bigquery
+- https://cloud.google.com/bigquery/docs/sandbox
 
 ### Final list of Deliverables for Expt 2
 (Please attach necessary screenshots & video clips for the same)

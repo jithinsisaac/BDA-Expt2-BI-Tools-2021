@@ -43,6 +43,7 @@ To learn and explore the Metabase Business Intelligence Tool & Google Big Query
 - We will use Google Bigquery sandbox, which does not need an credit card details
 - https://cloud.google.com/bigquery
 - https://cloud.google.com/bigquery/docs/sandbox
+- https://console.cloud.google.com/bigquery
 
 ### Final list of Deliverables for Expt 2
 (Please attach necessary screenshots & video clips for the same)
